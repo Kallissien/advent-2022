@@ -1,5 +1,5 @@
 # advent-2022
-
+Advent of Code 2022
 ## Build Setup
 
 ```bash
@@ -67,3 +67,4 @@ More information about the usage of this directory in [the documentation](https:
 This directory contains your Vuex store files. Creating a file in this directory automatically activates Vuex.
 
 More information about the usage of this directory in [the documentation](https://nuxtjs.org/docs/2.x/directory-structure/store).
+Advent of Code 2022
